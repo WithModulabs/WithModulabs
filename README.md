@@ -3,6 +3,8 @@
 
 아래는 [WithModulabs GitHub 조직](https://github.com/WithModulabs)의 주요 레포지토리와 링크를 정리한 표입니다.
 
+https://WithModulabs.github.io/WithModulabs
+
 | 레포지토리 | 설명 | 언어 | 링크 |
 |---|---|---|---|
 | [blog-agent](https://github.com/WithModulabs/blog-agent) | 블로그 자동화 에이전트 | Jupyter Notebook | [바로가기](https://github.com/WithModulabs/blog-agent) |
